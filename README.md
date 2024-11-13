@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Trishanth
-- 👀 I’m interested in HYD
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on WanderLust
 - 📫 How to reach me trishanth6666@gmail.com
 
 
